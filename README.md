@@ -5,17 +5,17 @@ Messaging client and server app(s) written entirely in C, using only the Microso
 ## Table of contents
 [What it entails](#what-it-entails)
 
-[Technologies used](#Technologies used)
+[Technologies used](#technologies-used)
 
-[Instructions for use](#Instructions for use)
+[Instructions for use](#instructions-for-use)
 
-[Detailed principle of operation](#Detailed principle of operation)
+[Detailed principle of operation](#detailed-principle-of-operation)
 
-[Server](#Server)
+  [Server](#server)
 
-[Client](#Client)
+[Client](#client)
 
-[Possible improvements and conclusion](#Possible improvements and conclusion)
+[Possible improvements and conclusion](#possible-improvements-and-conclusion)
   
 
 
