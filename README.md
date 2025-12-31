@@ -3,7 +3,7 @@ Messaging client and server app(s) written entirely in C, using only the Microso
 
 
 ## Table of contents
-[What it entails](#What it entails?)
+[What it entails](#what-it-entails)
 
 [Technologies used](#Technologies used)
 
