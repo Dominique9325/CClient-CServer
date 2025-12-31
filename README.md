@@ -11,7 +11,7 @@ Messaging client and server app(s) written entirely in C, using only the Microso
 
 [Detailed principle of operation](#detailed-principle-of-operation)
 
-  [Server](#server)
+[Server](#server)
 
 [Client](#client)
 
